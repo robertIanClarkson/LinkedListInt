@@ -36,6 +36,8 @@ public class LinkedListExample {
         System.out.println( "List contains -2 : " + myList.contains( -2 ) );
         System.out.println( "List contains -22: " + myList.contains( -22 ) );
         System.out.println( "List contains 7: " + myList.contains( 7 ) );
+        System.out.println( "List contains 1 : " + myList.contains( -22 ) );
+        System.out.println( "List contains 9 : " + myList.contains( 7 ) );
 
         System.out.println( "Printing List : " );
         myList.printList();
